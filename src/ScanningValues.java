@@ -24,6 +24,7 @@ public class ScanningValues {
 
         if(c>=50){
             System.out.println("first condition");
+            System.out.println("first condition");
         }
         else if((c>=40 ) && (c<=49)){
             System.out.println("second condition");
